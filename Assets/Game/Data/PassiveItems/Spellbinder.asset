@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68fcc6054f084ccf87d2e0f756ae1544, type: 3}
+  m_Name: Spellbinder
+  m_EditorClassIdentifier: 
+  _id: 11
+  _name: Quantum Modulator
+  _description: Increases duration of weapon effects by 10%.
+  _maxLevel: 2
+  _icon: {fileID: 21300000, guid: 191407b4622e0fc4f93c006b1bf29043, type: 3}
+  _note: 

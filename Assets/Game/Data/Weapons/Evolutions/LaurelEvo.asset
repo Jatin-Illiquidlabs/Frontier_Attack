@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4a3720f6895a4a7aa07586b4ec96075, type: 3}
+  m_Name: LaurelEvo
+  m_EditorClassIdentifier: 
+  _id: 6002
+  _name: Overcharged Force Field
+  _description: Temporarily shields from attacks. Pushes enemies away.
+  _icon: {fileID: 4727756025240139227, guid: 5011f5f9f4e09534394dc8e4900277b1, type: 3}
+  _maxLevel: 4
+  _weaponPrefab: {fileID: 5091844905673749269, guid: 8d870c554df05164c9e9c68a0fe5902e, type: 3}
+  _weaponPrefab2: {fileID: 0}
+  _attackPeriod: 10
+  _attackLifetime: 5
+  _damage: 0
+  _knockbackScale: 1
+  _projectilePierce: 10000
+  _evolutionFrom: 21
+  _unionFrom: 
+  _upgrades: []
+  _note: 

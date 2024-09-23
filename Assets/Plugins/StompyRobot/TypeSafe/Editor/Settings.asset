@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 775148651662f65429083cade6d818ab, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  AutoRebuild: 1
+  ClassNamePrefix: SR
+  ClassNameSuffix: 
+  EnableWaiting: 0
+  EnableWhitelist: 0
+  HasShownWelcome: 1
+  IncludeNonActiveScenes: 1
+  MinimumBuildTime: 3.5
+  Namespace: WerewolfBearer
+  OutputDirectory: Game/Source/Generated/TypeSafe
+  ResourceFolderFilter:
+  - Assets/Plugins/Zenject
+  - Packages/ga.fuquna.rapidgui
+  - Assets/Game/Data/Runtime/Resources
+  - Assets/Game/Data/Resources
+  - Assets/Plugins/StompyRobot/SRDebugger
+  - Assets/Game/Prefabs/Resources/ProjectContext.prefab
+  - Assets/Game/Prefabs/Resources/ZenjectReflectionBakingSettings.asset
+  - Assets/Plugins/GameAnalytics
+  - GameAnalytics/
+  - Assets/Plugins/TextMesh Pro
+  TriggerOnInputChange: 0
+  TriggerOnLayerChange: 1
+  TriggerOnResourceChange: 1
+  TriggerOnSceneChange: 0
+  TriggerOnAssetChange: 1
+  Whitelist: []
+  DisabledDataSources:
+  - TypeSafe.Editor.DataSources.AnimatorControllerDataSource, TypeSafe.Editor, Version=1.4.1.0,
+    Culture=neutral, PublicKeyToken=null
+  - TypeSafe.Editor.DataSources.AudioMixerDataSource, TypeSafe.Editor, Version=1.4.1.0,
+    Culture=neutral, PublicKeyToken=null
+  - TypeSafe.Editor.DataSources.InputDataSource, TypeSafe.Editor, Version=1.4.1.0,
+    Culture=neutral, PublicKeyToken=null
+  AudioMixers: []
+  Animators: []

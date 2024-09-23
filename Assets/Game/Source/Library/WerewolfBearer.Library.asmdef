@@ -1,0 +1,7 @@
+﻿{
+    "name": "WerewolfBearer.Library",
+    "references": [
+        "CodeStage.AFPSCounter.Runtime",
+        "UniRx"
+    ]
+}

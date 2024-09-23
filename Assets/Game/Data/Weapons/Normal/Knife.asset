@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4a3720f6895a4a7aa07586b4ec96075, type: 3}
+  m_Name: Knife
+  m_EditorClassIdentifier: 
+  _id: 3
+  _name: Dagger
+  _description: Fires quickly in the faced direction.
+  _icon: {fileID: 21300000, guid: 38ddd788abcc2424ba8bbf78c3615ce6, type: 3}
+  _maxLevel: 8
+  _weaponPrefab: {fileID: 1064357961878857459, guid: ae891edc013d54a3cb95fb4a7b6b3682, type: 3}
+  _weaponPrefab2: {fileID: 0}
+  _attackPeriod: 1.3
+  _attackLifetime: 5
+  _damage: 5
+  _knockbackScale: 1
+  _projectilePierce: 1
+  _evolutionFrom: 0
+  _unionFrom: 
+  _upgrades: []
+  _note: 

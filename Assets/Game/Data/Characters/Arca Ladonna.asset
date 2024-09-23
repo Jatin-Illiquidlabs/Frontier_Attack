@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be37c32713504fa183780366c712afdc, type: 3}
+  m_Name: Arca Ladonna
+  m_EditorClassIdentifier: 
+  _prefab: {fileID: 5104436939180262193, guid: 70642691b11dc9348a134f9e631b3d8a, type: 3}
+  _id: 2
+  _name: Blythe Datason
+  _shortName: Blythe
+  _description: Increased damage from start. Gains -5% Cooldown every 10 levels until
+    level 30.
+  _avatar: {fileID: 21300000, guid: d8edebf781290e34fa630cbbe60d6d9d, type: 3}
+  _startingWeapon: 7
+  _alwaysUnlocked: 0
+  _baseUnlockCost: 50
+  _initialStats:
+  - _stat: 5
+    _value: 0.1
+  _note: 

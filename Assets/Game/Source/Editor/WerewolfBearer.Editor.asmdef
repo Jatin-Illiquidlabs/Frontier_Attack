@@ -1,0 +1,19 @@
+{
+    "name": "WerewolfBearer.Editor",
+    "rootNamespace": "WerewolfBearer.Editor",
+    "references": [
+        "WerewolfBearer.Generated",
+        "WerewolfBearer.Library"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

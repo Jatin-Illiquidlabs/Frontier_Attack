@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be37c32713504fa183780366c712afdc, type: 3}
+  m_Name: Porta Ladonna
+  m_EditorClassIdentifier: 
+  _prefab: {fileID: 5104436939180262193, guid: 2d129f14e78e7a2459019ce51add62d0, type: 3}
+  _id: 7
+  _name: Eldon Kaker
+  _shortName: Eldon
+  _description: Permanent +30% attack area. Starts with temporary cooldown bonus.
+  _avatar: {fileID: 21300000, guid: dcdddb2b045da8043b434e8a30e635c4, type: 3}
+  _startingWeapon: 11
+  _alwaysUnlocked: 0
+  _baseUnlockCost: 5000
+  _initialStats:
+  - _stat: 6
+    _value: 0.3
+  _note: 

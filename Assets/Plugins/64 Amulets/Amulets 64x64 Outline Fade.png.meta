@@ -1,0 +1,1722 @@
+fileFormatVersion: 2
+guid: 43f506a2d40dbbe479551201786ab241
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7743859323791673608
+    second: Amulets 64x64 Outline Fade_0
+  - first:
+      213: 4282710600889137307
+    second: Amulets 64x64 Outline Fade_1
+  - first:
+      213: -6984199194237460718
+    second: Amulets 64x64 Outline Fade_2
+  - first:
+      213: 1253652143165488355
+    second: Amulets 64x64 Outline Fade_3
+  - first:
+      213: 6311200988442986365
+    second: Amulets 64x64 Outline Fade_4
+  - first:
+      213: 1844148795311128311
+    second: Amulets 64x64 Outline Fade_5
+  - first:
+      213: -69097287990837580
+    second: Amulets 64x64 Outline Fade_6
+  - first:
+      213: -2071642151552218977
+    second: Amulets 64x64 Outline Fade_7
+  - first:
+      213: 1648136284325029180
+    second: Amulets 64x64 Outline Fade_8
+  - first:
+      213: 172101436963128698
+    second: Amulets 64x64 Outline Fade_9
+  - first:
+      213: -4295114939339903100
+    second: Amulets 64x64 Outline Fade_10
+  - first:
+      213: 668331621956912144
+    second: Amulets 64x64 Outline Fade_11
+  - first:
+      213: 388856242180397392
+    second: Amulets 64x64 Outline Fade_12
+  - first:
+      213: 8814551988615061408
+    second: Amulets 64x64 Outline Fade_13
+  - first:
+      213: -5681492762411497552
+    second: Amulets 64x64 Outline Fade_14
+  - first:
+      213: 7921860790359334636
+    second: Amulets 64x64 Outline Fade_15
+  - first:
+      213: 7135939369516842959
+    second: Amulets 64x64 Outline Fade_16
+  - first:
+      213: 7324672662831793903
+    second: Amulets 64x64 Outline Fade_17
+  - first:
+      213: -3772497662376413357
+    second: Amulets 64x64 Outline Fade_18
+  - first:
+      213: 4656606812301042923
+    second: Amulets 64x64 Outline Fade_19
+  - first:
+      213: -8695721518137479473
+    second: Amulets 64x64 Outline Fade_20
+  - first:
+      213: -902416573973355338
+    second: Amulets 64x64 Outline Fade_21
+  - first:
+      213: 7274237094551149530
+    second: Amulets 64x64 Outline Fade_22
+  - first:
+      213: -5253771740589822564
+    second: Amulets 64x64 Outline Fade_23
+  - first:
+      213: 7680364640708162483
+    second: Amulets 64x64 Outline Fade_24
+  - first:
+      213: -1320488044338931349
+    second: Amulets 64x64 Outline Fade_25
+  - first:
+      213: -8095076253391845730
+    second: Amulets 64x64 Outline Fade_26
+  - first:
+      213: -4046443530935622439
+    second: Amulets 64x64 Outline Fade_27
+  - first:
+      213: 4560451731493096692
+    second: Amulets 64x64 Outline Fade_28
+  - first:
+      213: -4877105329044254456
+    second: Amulets 64x64 Outline Fade_29
+  - first:
+      213: 4838232810704122871
+    second: Amulets 64x64 Outline Fade_30
+  - first:
+      213: 8514995650317333042
+    second: Amulets 64x64 Outline Fade_31
+  - first:
+      213: 5208070779283212020
+    second: Amulets 64x64 Outline Fade_32
+  - first:
+      213: 6204336196960839272
+    second: Amulets 64x64 Outline Fade_33
+  - first:
+      213: 35564506109382562
+    second: Amulets 64x64 Outline Fade_34
+  - first:
+      213: -1491462436752077940
+    second: Amulets 64x64 Outline Fade_35
+  - first:
+      213: 6869623619020186590
+    second: Amulets 64x64 Outline Fade_36
+  - first:
+      213: -820815793959630840
+    second: Amulets 64x64 Outline Fade_37
+  - first:
+      213: -3884188494529369231
+    second: Amulets 64x64 Outline Fade_38
+  - first:
+      213: 1561833072388968910
+    second: Amulets 64x64 Outline Fade_39
+  - first:
+      213: -1211041280264128572
+    second: Amulets 64x64 Outline Fade_40
+  - first:
+      213: 717338012626598888
+    second: Amulets 64x64 Outline Fade_41
+  - first:
+      213: -2864322107344514092
+    second: Amulets 64x64 Outline Fade_42
+  - first:
+      213: -7506188697724584512
+    second: Amulets 64x64 Outline Fade_43
+  - first:
+      213: -2184826062326993156
+    second: Amulets 64x64 Outline Fade_44
+  - first:
+      213: -5280359699143390309
+    second: Amulets 64x64 Outline Fade_45
+  - first:
+      213: -2009520775729195933
+    second: Amulets 64x64 Outline Fade_46
+  - first:
+      213: -9019557452301519380
+    second: Amulets 64x64 Outline Fade_47
+  - first:
+      213: -7740107290116220575
+    second: Amulets 64x64 Outline Fade_48
+  - first:
+      213: 1728956205188699489
+    second: Amulets 64x64 Outline Fade_49
+  - first:
+      213: -737826449273046155
+    second: Amulets 64x64 Outline Fade_50
+  - first:
+      213: 4473962560236357324
+    second: Amulets 64x64 Outline Fade_51
+  - first:
+      213: 6354134840272764967
+    second: Amulets 64x64 Outline Fade_52
+  - first:
+      213: -2296693523571692085
+    second: Amulets 64x64 Outline Fade_53
+  - first:
+      213: 2116312566916323999
+    second: Amulets 64x64 Outline Fade_54
+  - first:
+      213: -8781259048306880915
+    second: Amulets 64x64 Outline Fade_55
+  - first:
+      213: 7964620290795788983
+    second: Amulets 64x64 Outline Fade_56
+  - first:
+      213: 6370547433622113005
+    second: Amulets 64x64 Outline Fade_57
+  - first:
+      213: 3616213351958913600
+    second: Amulets 64x64 Outline Fade_58
+  - first:
+      213: -2411725666892181966
+    second: Amulets 64x64 Outline Fade_59
+  - first:
+      213: -4301178885088272782
+    second: Amulets 64x64 Outline Fade_60
+  - first:
+      213: 8110470621381035399
+    second: Amulets 64x64 Outline Fade_61
+  - first:
+      213: -3831106602530194514
+    second: Amulets 64x64 Outline Fade_62
+  - first:
+      213: -3091120276383623117
+    second: Amulets 64x64 Outline Fade_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6fcc649f8488490800000000000000
+      internalID: -7743859323791673608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98fbc9c99e3f6b30800000000000000
+      internalID: 4282710600889137307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f18e236d3231f90800000000000000
+      internalID: -6984199194237460718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec39496bfdd56110800000000000000
+      internalID: 1253652143165488355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d770d3e5cd3e59750800000000000000
+      internalID: 6311200988442986365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fefb710f8bb79910800000000000000
+      internalID: 1844148795311128311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4befc56f1648a0ff0800000000000000
+      internalID: -69097287990837580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98010f607c0043e0800000000000000
+      internalID: -2071642151552218977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3520a8e73b5fd610800000000000000
+      internalID: 1648136284325029180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a758587585d636200800000000000000
+      internalID: 172101436963128698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48feb2b18bfa464c0800000000000000
+      internalID: -4295114939339903100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01407e6b114664900800000000000000
+      internalID: 668331621956912144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0591bd721be756500800000000000000
+      internalID: 388856242180397392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af1d970554935a70800000000000000
+      internalID: 8814551988615061408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b782863f684721b0800000000000000
+      internalID: -5681492762411497552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_15
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee9671ca6a10fd60800000000000000
+      internalID: 7921860790359334636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfb6ca7c03f70360800000000000000
+      internalID: 7135939369516842959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe68a14aaf676a560800000000000000
+      internalID: 7324672662831793903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357ff061d5565abc0800000000000000
+      internalID: -3772497662376413357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be42ed959379f9040800000000000000
+      internalID: 4656606812301042923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcee1b5e957925780800000000000000
+      internalID: -8695721518137479473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4a4ec38e8f973f0800000000000000
+      internalID: -902416573973355338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbd0b0d81843f460800000000000000
+      internalID: 7274237094551149530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d6827007ad617b0800000000000000
+      internalID: -5253771740589822564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b371eac2f2269a60800000000000000
+      internalID: 7680364640708162483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b691703be1facade0800000000000000
+      internalID: -1320488044338931349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9601ee790388af80800000000000000
+      internalID: -8095076253391845730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4a7ee2c0528d7c0800000000000000
+      internalID: -4046443530935622439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc06feffaaf94f30800000000000000
+      internalID: 4560451731493096692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80117221b8a015cb0800000000000000
+      internalID: -4877105329044254456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3b8a67b1bd42340800000000000000
+      internalID: 4838232810704122871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_31
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2323929fd675b2670800000000000000
+      internalID: 8514995650317333042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6844cb7c8c64840800000000000000
+      internalID: 5208070779283212020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866e2fe26ea3a1650800000000000000
+      internalID: 6204336196960839272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af0349dab95e7000800000000000000
+      internalID: 35564506109382562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bcd8dd0d24d4be0800000000000000
+      internalID: -1491462436752077940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3e450e84ec55f50800000000000000
+      internalID: 6869623619020186590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808810f5260eb94f0800000000000000
+      internalID: -820815793959630840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17beaeeb427981ac0800000000000000
+      internalID: -3884188494529369231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_39
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1933687eebca510800000000000000
+      internalID: 1561833072388968910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7b5893f54813fe0800000000000000
+      internalID: -1211041280264128572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb3e723f1f74f900800000000000000
+      internalID: 717338012626598888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d39e6d1832ef38d0800000000000000
+      internalID: -2864322107344514092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_43
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdf21f1629a4d790800000000000000
+      internalID: -7506188697724584512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfeebf2a540fda1e0800000000000000
+      internalID: -2184826062326993156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_45
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b054684d468b6b0800000000000000
+      internalID: -5280359699143390309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_46
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364d4e9508fbc14e0800000000000000
+      internalID: -2009520775729195933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_47
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce53758e84814d280800000000000000
+      internalID: -9019557452301519380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1691631bd6d959490800000000000000
+      internalID: -7740107290116220575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165da7a128c7ef710800000000000000
+      internalID: 1728956205188699489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b3139e0c6b2c5f0800000000000000
+      internalID: -737826449273046155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc609459e35b61e30800000000000000
+      internalID: 4473962560236357324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7204469b8fb6e2850800000000000000
+      internalID: 6354134840272764967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_53
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcda191a8618020e0800000000000000
+      internalID: -2296693523571692085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_54
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a1eb02117ae5d10800000000000000
+      internalID: 2116312566916323999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_55
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ecbf0bb63b22680800000000000000
+      internalID: -8781259048306880915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba50c3c4f3088e60800000000000000
+      internalID: 7964620290795788983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_57
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea82d5632bb86850800000000000000
+      internalID: 6370547433622113005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_58
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042298352ee5f2230800000000000000
+      internalID: 3616213351958913600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_59
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e0339a844d78ed0800000000000000
+      internalID: -2411725666892181966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_60
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e17e6b7942f44c0800000000000000
+      internalID: -4301178885088272782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_61
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78588ac1f0e2e8070800000000000000
+      internalID: 8110470621381035399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_62
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabb883d7dc25dac0800000000000000
+      internalID: -3831106602530194514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline Fade_63
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33895207c722a15d0800000000000000
+      internalID: -3091120276383623117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Amulets 64x64 Outline Fade_62: -3831106602530194514
+      Amulets 64x64 Outline Fade_40: -1211041280264128572
+      Amulets 64x64 Outline Fade_46: -2009520775729195933
+      Amulets 64x64 Outline Fade_55: -8781259048306880915
+      Amulets 64x64 Outline Fade_6: -69097287990837580
+      Amulets 64x64 Outline Fade_10: -4295114939339903100
+      Amulets 64x64 Outline Fade_48: -7740107290116220575
+      Amulets 64x64 Outline Fade_63: -3091120276383623117
+      Amulets 64x64 Outline Fade_43: -7506188697724584512
+      Amulets 64x64 Outline Fade_23: -5253771740589822564
+      Amulets 64x64 Outline Fade_27: -4046443530935622439
+      Amulets 64x64 Outline Fade_61: 8110470621381035399
+      Amulets 64x64 Outline Fade_11: 668331621956912144
+      Amulets 64x64 Outline Fade_14: -5681492762411497552
+      Amulets 64x64 Outline Fade_44: -2184826062326993156
+      Amulets 64x64 Outline Fade_0: -7743859323791673608
+      Amulets 64x64 Outline Fade_12: 388856242180397392
+      Amulets 64x64 Outline Fade_50: -737826449273046155
+      Amulets 64x64 Outline Fade_20: -8695721518137479473
+      Amulets 64x64 Outline Fade_24: 7680364640708162483
+      Amulets 64x64 Outline Fade_38: -3884188494529369231
+      Amulets 64x64 Outline Fade_28: 4560451731493096692
+      Amulets 64x64 Outline Fade_5: 1844148795311128311
+      Amulets 64x64 Outline Fade_31: 8514995650317333042
+      Amulets 64x64 Outline Fade_29: -4877105329044254456
+      Amulets 64x64 Outline Fade_2: -6984199194237460718
+      Amulets 64x64 Outline Fade_9: 172101436963128698
+      Amulets 64x64 Outline Fade_53: -2296693523571692085
+      Amulets 64x64 Outline Fade_32: 5208070779283212020
+      Amulets 64x64 Outline Fade_59: -2411725666892181966
+      Amulets 64x64 Outline Fade_30: 4838232810704122871
+      Amulets 64x64 Outline Fade_45: -5280359699143390309
+      Amulets 64x64 Outline Fade_4: 6311200988442986365
+      Amulets 64x64 Outline Fade_60: -4301178885088272782
+      Amulets 64x64 Outline Fade_41: 717338012626598888
+      Amulets 64x64 Outline Fade_8: 1648136284325029180
+      Amulets 64x64 Outline Fade_15: 7921860790359334636
+      Amulets 64x64 Outline Fade_25: -1320488044338931349
+      Amulets 64x64 Outline Fade_7: -2071642151552218977
+      Amulets 64x64 Outline Fade_19: 4656606812301042923
+      Amulets 64x64 Outline Fade_16: 7135939369516842959
+      Amulets 64x64 Outline Fade_21: -902416573973355338
+      Amulets 64x64 Outline Fade_51: 4473962560236357324
+      Amulets 64x64 Outline Fade_26: -8095076253391845730
+      Amulets 64x64 Outline Fade_52: 6354134840272764967
+      Amulets 64x64 Outline Fade_13: 8814551988615061408
+      Amulets 64x64 Outline Fade_34: 35564506109382562
+      Amulets 64x64 Outline Fade_17: 7324672662831793903
+      Amulets 64x64 Outline Fade_56: 7964620290795788983
+      Amulets 64x64 Outline Fade_49: 1728956205188699489
+      Amulets 64x64 Outline Fade_54: 2116312566916323999
+      Amulets 64x64 Outline Fade_57: 6370547433622113005
+      Amulets 64x64 Outline Fade_3: 1253652143165488355
+      Amulets 64x64 Outline Fade_18: -3772497662376413357
+      Amulets 64x64 Outline Fade_33: 6204336196960839272
+      Amulets 64x64 Outline Fade_39: 1561833072388968910
+      Amulets 64x64 Outline Fade_58: 3616213351958913600
+      Amulets 64x64 Outline Fade_42: -2864322107344514092
+      Amulets 64x64 Outline Fade_22: 7274237094551149530
+      Amulets 64x64 Outline Fade_36: 6869623619020186590
+      Amulets 64x64 Outline Fade_35: -1491462436752077940
+      Amulets 64x64 Outline Fade_47: -9019557452301519380
+      Amulets 64x64 Outline Fade_1: 4282710600889137307
+      Amulets 64x64 Outline Fade_37: -820815793959630840
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

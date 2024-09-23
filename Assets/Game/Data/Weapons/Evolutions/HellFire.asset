@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4a3720f6895a4a7aa07586b4ec96075, type: 3}
+  m_Name: HellFire
+  m_EditorClassIdentifier: 
+  _id: 1006
+  _name: Overheated Heat Sphere
+  _description: Fires at a random enemy, deals heavy damage.
+  _icon: {fileID: 21300000, guid: d0d5df033e6055845b7dc6e7bfbea51c, type: 3}
+  _maxLevel: 8
+  _weaponPrefab: {fileID: 6327629719399995434, guid: 126309057989e194d9ac2524811d7b8f, type: 3}
+  _weaponPrefab2: {fileID: 0}
+  _attackPeriod: 3
+  _attackLifetime: 15
+  _damage: 15
+  _knockbackScale: 1
+  _projectilePierce: 10000
+  _evolutionFrom: 7
+  _unionFrom: 
+  _upgrades: []
+  _note: 

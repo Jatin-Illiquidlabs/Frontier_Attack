@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<linker>
+    <assembly fullname="UserReporting">
+        <type fullname="Unity.Cloud.UserReporting.UserReportPreview" preserve="all"/>
+        <type fullname="Unity.Cloud.UserReporting.UserReport" preserve="all"/>
+        <type fullname="Unity.Cloud.UserReporting.UserReportAttachment" preserve="all"/>
+    </assembly>
+</linker>

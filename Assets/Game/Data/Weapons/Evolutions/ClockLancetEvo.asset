@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4a3720f6895a4a7aa07586b4ec96075, type: 3}
+  m_Name: ClockLancetEvo
+  m_EditorClassIdentifier: 
+  _id: 6001
+  _name: Clock Lancet Evo
+  _description: Fires double daggers quickly in a clockwise manner.
+  _icon: {fileID: -7301532360030389345, guid: 5011f5f9f4e09534394dc8e4900277b1, type: 3}
+  _maxLevel: 4
+  _weaponPrefab: {fileID: 1064357961878857459, guid: e86ab22771003e94abf53c5212574ddd, type: 3}
+  _weaponPrefab2: {fileID: 0}
+  _attackPeriod: 0.125
+  _attackLifetime: 5
+  _damage: 3
+  _knockbackScale: 0.3
+  _projectilePierce: 1
+  _evolutionFrom: 20
+  _unionFrom: 
+  _upgrades: []
+  _note: 

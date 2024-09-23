@@ -1,0 +1,1722 @@
+fileFormatVersion: 2
+guid: 4c6485c78123e574f9f01574c564d444
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1870910532682273261
+    second: Amulets 64x64 Outline White_0
+  - first:
+      213: -6717929362375793431
+    second: Amulets 64x64 Outline White_1
+  - first:
+      213: -5498442523743312887
+    second: Amulets 64x64 Outline White_2
+  - first:
+      213: 344793046285774203
+    second: Amulets 64x64 Outline White_3
+  - first:
+      213: 5147428604622544879
+    second: Amulets 64x64 Outline White_4
+  - first:
+      213: 2931942236186813493
+    second: Amulets 64x64 Outline White_5
+  - first:
+      213: 8186265058018380896
+    second: Amulets 64x64 Outline White_6
+  - first:
+      213: -7226508621250203181
+    second: Amulets 64x64 Outline White_7
+  - first:
+      213: -7698275202098082671
+    second: Amulets 64x64 Outline White_8
+  - first:
+      213: -5742145234398548305
+    second: Amulets 64x64 Outline White_9
+  - first:
+      213: -6061609235632343712
+    second: Amulets 64x64 Outline White_10
+  - first:
+      213: 754167925098807689
+    second: Amulets 64x64 Outline White_11
+  - first:
+      213: -2523364974876080582
+    second: Amulets 64x64 Outline White_12
+  - first:
+      213: -2117560547053297076
+    second: Amulets 64x64 Outline White_13
+  - first:
+      213: -1160686312494789913
+    second: Amulets 64x64 Outline White_14
+  - first:
+      213: -8388070542457347143
+    second: Amulets 64x64 Outline White_15
+  - first:
+      213: 6078552750086660448
+    second: Amulets 64x64 Outline White_16
+  - first:
+      213: 1800008966814287379
+    second: Amulets 64x64 Outline White_17
+  - first:
+      213: -4384320457513436348
+    second: Amulets 64x64 Outline White_18
+  - first:
+      213: -1503967555252476447
+    second: Amulets 64x64 Outline White_19
+  - first:
+      213: 5501577333908420264
+    second: Amulets 64x64 Outline White_20
+  - first:
+      213: -6391935423512908319
+    second: Amulets 64x64 Outline White_21
+  - first:
+      213: -674399887952161325
+    second: Amulets 64x64 Outline White_22
+  - first:
+      213: 8051315787217038
+    second: Amulets 64x64 Outline White_23
+  - first:
+      213: 2755325314379249315
+    second: Amulets 64x64 Outline White_24
+  - first:
+      213: -1237694603372690158
+    second: Amulets 64x64 Outline White_25
+  - first:
+      213: -535084053322192303
+    second: Amulets 64x64 Outline White_26
+  - first:
+      213: -4014177027939950948
+    second: Amulets 64x64 Outline White_27
+  - first:
+      213: 1054951988905354638
+    second: Amulets 64x64 Outline White_28
+  - first:
+      213: -1480986914937718017
+    second: Amulets 64x64 Outline White_29
+  - first:
+      213: -7316494775925255576
+    second: Amulets 64x64 Outline White_30
+  - first:
+      213: -4967094362760843175
+    second: Amulets 64x64 Outline White_31
+  - first:
+      213: -7227181466393722057
+    second: Amulets 64x64 Outline White_32
+  - first:
+      213: -4845242877844870704
+    second: Amulets 64x64 Outline White_33
+  - first:
+      213: -6049567935287646658
+    second: Amulets 64x64 Outline White_34
+  - first:
+      213: 6588429384579624058
+    second: Amulets 64x64 Outline White_35
+  - first:
+      213: -4169162684674142104
+    second: Amulets 64x64 Outline White_36
+  - first:
+      213: -7602275290996063894
+    second: Amulets 64x64 Outline White_37
+  - first:
+      213: 1440603393864646180
+    second: Amulets 64x64 Outline White_38
+  - first:
+      213: -5831074002945393602
+    second: Amulets 64x64 Outline White_39
+  - first:
+      213: 3593150797473837252
+    second: Amulets 64x64 Outline White_40
+  - first:
+      213: -4808439285947024831
+    second: Amulets 64x64 Outline White_41
+  - first:
+      213: -5616248182774923748
+    second: Amulets 64x64 Outline White_42
+  - first:
+      213: -7827579946535507004
+    second: Amulets 64x64 Outline White_43
+  - first:
+      213: 4767550383098824647
+    second: Amulets 64x64 Outline White_44
+  - first:
+      213: -728172835247916082
+    second: Amulets 64x64 Outline White_45
+  - first:
+      213: -7891845254036599523
+    second: Amulets 64x64 Outline White_46
+  - first:
+      213: -1191486293716903223
+    second: Amulets 64x64 Outline White_47
+  - first:
+      213: 6274162660498233327
+    second: Amulets 64x64 Outline White_48
+  - first:
+      213: 2861729379574027488
+    second: Amulets 64x64 Outline White_49
+  - first:
+      213: -5096772668041299294
+    second: Amulets 64x64 Outline White_50
+  - first:
+      213: -3403075315756981059
+    second: Amulets 64x64 Outline White_51
+  - first:
+      213: -6754625428816982610
+    second: Amulets 64x64 Outline White_52
+  - first:
+      213: 6491778053210599861
+    second: Amulets 64x64 Outline White_53
+  - first:
+      213: -585697748280049354
+    second: Amulets 64x64 Outline White_54
+  - first:
+      213: -4637686350229667841
+    second: Amulets 64x64 Outline White_55
+  - first:
+      213: 2124489398527939216
+    second: Amulets 64x64 Outline White_56
+  - first:
+      213: -4347848391149849838
+    second: Amulets 64x64 Outline White_57
+  - first:
+      213: 4365660361762641497
+    second: Amulets 64x64 Outline White_58
+  - first:
+      213: -4310962029626976995
+    second: Amulets 64x64 Outline White_59
+  - first:
+      213: 3675648217049092581
+    second: Amulets 64x64 Outline White_60
+  - first:
+      213: -3188849114602946765
+    second: Amulets 64x64 Outline White_61
+  - first:
+      213: 9079924985774497833
+    second: Amulets 64x64 Outline White_62
+  - first:
+      213: 1533797496627334947
+    second: Amulets 64x64 Outline White_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31eafe478c03906e0800000000000000
+      internalID: -1870910532682273261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4ac6986de15c2a0800000000000000
+      internalID: -6717929362375793431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904a06a18ab91b3b0800000000000000
+      internalID: -5498442523743312887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d63e4e273f8c400800000000000000
+      internalID: 344793046285774203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef163d2b075f6740800000000000000
+      internalID: 5147428604622544879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53421e10ee950b820800000000000000
+      internalID: 2931942236186813493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cc06492b47b9170800000000000000
+      internalID: 8186265058018380896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1751852b846bb90800000000000000
+      internalID: -7226508621250203181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ccebbad7b3a2590800000000000000
+      internalID: -7698275202098082671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faee8fe155dcf40b0800000000000000
+      internalID: -5742145234398548305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06538e61486d0eba0800000000000000
+      internalID: -6061609235632343712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981028c6bb7577a00800000000000000
+      internalID: 754167925098807689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3649d9bce43bfcd0800000000000000
+      internalID: -2523364974876080582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42a18ad6e9ec92e0800000000000000
+      internalID: -2117560547053297076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea0718c2f964efe0800000000000000
+      internalID: -1160686312494789913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_15
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b369e59846979b80800000000000000
+      internalID: -8388070542457347143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061a369458b5b5450800000000000000
+      internalID: 6078552750086660448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316cb735e9aeaf810800000000000000
+      internalID: 1800008966814287379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bfe64e5c3c723c0800000000000000
+      internalID: -4384320457513436348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5a6731a75d02be0800000000000000
+      internalID: -1503967555252476447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6b3f3cf67895c40800000000000000
+      internalID: 5501577333908420264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ede64629984b47a0800000000000000
+      internalID: -6391935423512908319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d55c0200ec04a6f0800000000000000
+      internalID: -674399887952161325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88b87901aa9c1000800000000000000
+      internalID: 8051315787217038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6773c66c1ec3620800000000000000
+      internalID: 2755325314379249315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2158d89d053d2dee0800000000000000
+      internalID: -1237694603372690158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a21c473eff298f0800000000000000
+      internalID: -535084053322192303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e1b18d247ca48c0800000000000000
+      internalID: -4014177027939950948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85abc99e31f3ae00800000000000000
+      internalID: 1054951988905354638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffab22a5f3a727be0800000000000000
+      internalID: -1480986914937718017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86259f704c6967a90800000000000000
+      internalID: -7316494775925255576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_31
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9507bcd6ef5511bb0800000000000000
+      internalID: -4967094362760843175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733c0506fb4e3bb90800000000000000
+      internalID: -7227181466393722057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9a097164d32ccb0800000000000000
+      internalID: -4845242877844870704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36269cc30e9b0ca0800000000000000
+      internalID: -6049567935287646658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c2d974e9dce6b50800000000000000
+      internalID: 6588429384579624058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8601f21a0a82426c0800000000000000
+      internalID: -4169162684674142104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a614373c6ea4f7690800000000000000
+      internalID: -7602275290996063894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e3681772d0ef310800000000000000
+      internalID: 1440603393864646180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_39
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cbc63b61dd31fa0800000000000000
+      internalID: -5831074002945393602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0f6dbec9f6dd130800000000000000
+      internalID: 3593150797473837252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a381512fdf44db0800000000000000
+      internalID: -4808439285947024831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e744fa8041f02b0800000000000000
+      internalID: -5616248182774923748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_43
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cba7cbc289de5390800000000000000
+      internalID: -7827579946535507004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7026950ddb92240800000000000000
+      internalID: 4767550383098824647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_45
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb75f31aa205e5f0800000000000000
+      internalID: -728172835247916082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_46
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1dcbc2ed888a7290800000000000000
+      internalID: -7891845254036599523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_47
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cad144578df67fe0800000000000000
+      internalID: -1191486293716903223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe75402a2bd421750800000000000000
+      internalID: 6274162660498233327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e41fc865b7e6b720800000000000000
+      internalID: 2861729379574027488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa7a742340a449b0800000000000000
+      internalID: -5096772668041299294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4a764d709d5c0d0800000000000000
+      internalID: -3403075315756981059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead0b84c5ffb242a0800000000000000
+      internalID: -6754625428816982610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_53
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b17b469ebd671a50800000000000000
+      internalID: 6491778053210599861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_54
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6318508400f2fd7f0800000000000000
+      internalID: -585697748280049354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_55
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffff1e206d0a3afb0800000000000000
+      internalID: -4637686350229667841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09257581ad3bb7d10800000000000000
+      internalID: 2124489398527939216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_57
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21372449ce659a3c0800000000000000
+      internalID: -4347848391149849838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_58
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9569dd008f0f59c30800000000000000
+      internalID: 4365660361762641497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_59
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1513efdfd26c24c0800000000000000
+      internalID: -4310962029626976995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_60
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e152883496820330800000000000000
+      internalID: 3675648217049092581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_61
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fb5c120aeeeb3d0800000000000000
+      internalID: -3188849114602946765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_62
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9206844caaf520e70800000000000000
+      internalID: 9079924985774497833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline White_63
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f0bdf52b4294510800000000000000
+      internalID: 1533797496627334947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Amulets 64x64 Outline White_20: 5501577333908420264
+      Amulets 64x64 Outline White_0: -1870910532682273261
+      Amulets 64x64 Outline White_29: -1480986914937718017
+      Amulets 64x64 Outline White_3: 344793046285774203
+      Amulets 64x64 Outline White_34: -6049567935287646658
+      Amulets 64x64 Outline White_51: -3403075315756981059
+      Amulets 64x64 Outline White_5: 2931942236186813493
+      Amulets 64x64 Outline White_14: -1160686312494789913
+      Amulets 64x64 Outline White_21: -6391935423512908319
+      Amulets 64x64 Outline White_37: -7602275290996063894
+      Amulets 64x64 Outline White_39: -5831074002945393602
+      Amulets 64x64 Outline White_17: 1800008966814287379
+      Amulets 64x64 Outline White_47: -1191486293716903223
+      Amulets 64x64 Outline White_22: -674399887952161325
+      Amulets 64x64 Outline White_27: -4014177027939950948
+      Amulets 64x64 Outline White_56: 2124489398527939216
+      Amulets 64x64 Outline White_53: 6491778053210599861
+      Amulets 64x64 Outline White_10: -6061609235632343712
+      Amulets 64x64 Outline White_24: 2755325314379249315
+      Amulets 64x64 Outline White_60: 3675648217049092581
+      Amulets 64x64 Outline White_52: -6754625428816982610
+      Amulets 64x64 Outline White_44: 4767550383098824647
+      Amulets 64x64 Outline White_2: -5498442523743312887
+      Amulets 64x64 Outline White_43: -7827579946535507004
+      Amulets 64x64 Outline White_46: -7891845254036599523
+      Amulets 64x64 Outline White_26: -535084053322192303
+      Amulets 64x64 Outline White_61: -3188849114602946765
+      Amulets 64x64 Outline White_35: 6588429384579624058
+      Amulets 64x64 Outline White_19: -1503967555252476447
+      Amulets 64x64 Outline White_18: -4384320457513436348
+      Amulets 64x64 Outline White_48: 6274162660498233327
+      Amulets 64x64 Outline White_8: -7698275202098082671
+      Amulets 64x64 Outline White_30: -7316494775925255576
+      Amulets 64x64 Outline White_9: -5742145234398548305
+      Amulets 64x64 Outline White_1: -6717929362375793431
+      Amulets 64x64 Outline White_40: 3593150797473837252
+      Amulets 64x64 Outline White_32: -7227181466393722057
+      Amulets 64x64 Outline White_28: 1054951988905354638
+      Amulets 64x64 Outline White_33: -4845242877844870704
+      Amulets 64x64 Outline White_4: 5147428604622544879
+      Amulets 64x64 Outline White_50: -5096772668041299294
+      Amulets 64x64 Outline White_11: 754167925098807689
+      Amulets 64x64 Outline White_15: -8388070542457347143
+      Amulets 64x64 Outline White_25: -1237694603372690158
+      Amulets 64x64 Outline White_36: -4169162684674142104
+      Amulets 64x64 Outline White_23: 8051315787217038
+      Amulets 64x64 Outline White_42: -5616248182774923748
+      Amulets 64x64 Outline White_38: 1440603393864646180
+      Amulets 64x64 Outline White_49: 2861729379574027488
+      Amulets 64x64 Outline White_63: 1533797496627334947
+      Amulets 64x64 Outline White_7: -7226508621250203181
+      Amulets 64x64 Outline White_31: -4967094362760843175
+      Amulets 64x64 Outline White_54: -585697748280049354
+      Amulets 64x64 Outline White_57: -4347848391149849838
+      Amulets 64x64 Outline White_12: -2523364974876080582
+      Amulets 64x64 Outline White_59: -4310962029626976995
+      Amulets 64x64 Outline White_16: 6078552750086660448
+      Amulets 64x64 Outline White_55: -4637686350229667841
+      Amulets 64x64 Outline White_13: -2117560547053297076
+      Amulets 64x64 Outline White_6: 8186265058018380896
+      Amulets 64x64 Outline White_58: 4365660361762641497
+      Amulets 64x64 Outline White_45: -728172835247916082
+      Amulets 64x64 Outline White_62: 9079924985774497833
+      Amulets 64x64 Outline White_41: -4808439285947024831
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

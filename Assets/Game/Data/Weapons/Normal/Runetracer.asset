@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4a3720f6895a4a7aa07586b4ec96075, type: 3}
+  m_Name: Runetracer
+  m_EditorClassIdentifier: 
+  _id: 10
+  _name: Reconnaissance Drone
+  _description: Passes through enemies, bounces around.
+  _icon: {fileID: 21300000, guid: 90befb896e83b4248985357faf0a01a5, type: 3}
+  _maxLevel: 8
+  _weaponPrefab: {fileID: 1330709619745808689, guid: 8ea225c0e18a74a84a74ea849f2c1cbf, type: 3}
+  _weaponPrefab2: {fileID: 0}
+  _attackPeriod: 3
+  _attackLifetime: 5
+  _damage: 10
+  _knockbackScale: 1
+  _projectilePierce: 10000
+  _evolutionFrom: 0
+  _unionFrom: 
+  _upgrades: []
+  _note: 

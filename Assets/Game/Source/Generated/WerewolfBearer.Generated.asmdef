@@ -1,0 +1,6 @@
+{
+    "name": "WerewolfBearer.Generated",
+    "references": [
+        "TypeSafe.Runtime"
+    ]
+}

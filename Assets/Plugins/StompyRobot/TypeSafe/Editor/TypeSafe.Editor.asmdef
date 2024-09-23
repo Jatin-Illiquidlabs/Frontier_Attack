@@ -1,0 +1,10 @@
+{
+    "name": "TypeSafe.Editor",
+    "references": [
+        "TypeSafe.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

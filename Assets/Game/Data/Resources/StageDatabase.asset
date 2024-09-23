@@ -1,0 +1,275 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05fb2817aacc41c7abb5fe75725c0ec9, type: 3}
+  m_Name: StageDatabase
+  m_EditorClassIdentifier: 
+  _stages:
+  - _stageId: 1
+    _name: Badlands
+    _icon: {fileID: 21300000, guid: 1d6c17c2a2babc140acee34942f1b802, type: 3}
+    _alwaysUnlocked: 1
+    _enemies:
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 48265f2641da60e4c8bed632c63e4dec, type: 3}
+      SpawnWeight: 10
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 9aa181966576a854fb28c58c67cf9251, type: 3}
+      SpawnWeight: 10
+    - EnemyPrefab: {fileID: 277306914078998486, guid: b570dba8f9a5d2749a89dc5f99974ebe, type: 3}
+      SpawnWeight: 10
+    - EnemyPrefab: {fileID: 277306914078998486, guid: d0db8c5f706a6c14fb54f5a82e171695, type: 3}
+      SpawnWeight: 10
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 224fa34bf432fd74a898644118c12461, type: 3}
+      SpawnWeight: 10
+    - EnemyPrefab: {fileID: 277306914078998486, guid: b2f09e95a456f8147b9ae4331197463d, type: 3}
+      SpawnWeight: 2
+    - EnemyPrefab: {fileID: 277306914078998486, guid: b449a14039c96f54fa9fb345fa806ac2, type: 3}
+      SpawnWeight: 1
+    - EnemyPrefab: {fileID: 277306914078998486, guid: b4091c9bfb05b7f48bf904eaa8d9d820, type: 3}
+      SpawnWeight: 5
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 4296d1a9872e0184cba4446dfa71c49d, type: 3}
+      SpawnWeight: 3
+    _bosses:
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 5dc18f700bc7d364ca81f9c7e8030828, type: 3}
+      SpawnWeight: 1
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 979d3b19487581c4dbab046015230b4b, type: 3}
+      SpawnWeight: 1
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 6d1c91bff9ea116478fe30ff532dfd8b, type: 3}
+      SpawnWeight: 1
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 68a70dd871dff25419733e6438f8271f, type: 3}
+      SpawnWeight: 1
+    _enemySpawnIntervalBase: 3
+    _enemySpawnIntervalMin: 0.25
+    _enemySpawnIntervalDecreasePerPlayerLevel: 0.1
+    _note: 
+  - _stageId: 2
+    _name: Steel Refinery
+    _icon: {fileID: 21300000, guid: acc7523759850af40950d12045619164, type: 3}
+    _alwaysUnlocked: 0
+    _enemies:
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 48265f2641da60e4c8bed632c63e4dec, type: 3}
+      SpawnWeight: 10
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 9aa181966576a854fb28c58c67cf9251, type: 3}
+      SpawnWeight: 10
+    - EnemyPrefab: {fileID: 277306914078998486, guid: b570dba8f9a5d2749a89dc5f99974ebe, type: 3}
+      SpawnWeight: 10
+    - EnemyPrefab: {fileID: 277306914078998486, guid: d0db8c5f706a6c14fb54f5a82e171695, type: 3}
+      SpawnWeight: 10
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 224fa34bf432fd74a898644118c12461, type: 3}
+      SpawnWeight: 10
+    - EnemyPrefab: {fileID: 277306914078998486, guid: b2f09e95a456f8147b9ae4331197463d, type: 3}
+      SpawnWeight: 2
+    - EnemyPrefab: {fileID: 277306914078998486, guid: b449a14039c96f54fa9fb345fa806ac2, type: 3}
+      SpawnWeight: 1
+    - EnemyPrefab: {fileID: 277306914078998486, guid: b4091c9bfb05b7f48bf904eaa8d9d820, type: 3}
+      SpawnWeight: 5
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 4296d1a9872e0184cba4446dfa71c49d, type: 3}
+      SpawnWeight: 5
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 53311a7e62d707348992adcb223385a6, type: 3}
+      SpawnWeight: 5
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 7e7582fed198b4941b53c0421d0963e8, type: 3}
+      SpawnWeight: 2
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 89e70771abde7814698df6ee5abceefb, type: 3}
+      SpawnWeight: 1
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 2d05256c2c8798c4a809a608fdfe7029, type: 3}
+      SpawnWeight: 10
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 778241aacc7325e449707079eab53641, type: 3}
+      SpawnWeight: 10
+    - EnemyPrefab: {fileID: 277306914078998486, guid: d27af08776647d74394e1e68d000ccaf, type: 3}
+      SpawnWeight: 10
+    - EnemyPrefab: {fileID: 277306914078998486, guid: fb87f07a90bfc09499cb25a2ba95aed2, type: 3}
+      SpawnWeight: 2
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 8c68d2af538aa91409590175fb8bec30, type: 3}
+      SpawnWeight: 1
+    - EnemyPrefab: {fileID: 277306914078998486, guid: f436f0a2071b21f439958713a2369bf7, type: 3}
+      SpawnWeight: 5
+    - EnemyPrefab: {fileID: 277306914078998486, guid: b1d3c177bd0839140a8ccc2693a4738c, type: 3}
+      SpawnWeight: 3
+    _bosses:
+    - EnemyPrefab: {fileID: 277306914078998486, guid: e88430d23b7567c409ec9a6d01da435d, type: 3}
+      SpawnWeight: 1
+    - EnemyPrefab: {fileID: 277306914078998486, guid: f1f7f2b33cb364349b5ae2d8d4337290, type: 3}
+      SpawnWeight: 1
+    - EnemyPrefab: {fileID: 277306914078998486, guid: bd909efbd78379b43857a67a293f607e, type: 3}
+      SpawnWeight: 1
+    _enemySpawnIntervalBase: 3
+    _enemySpawnIntervalMin: 0.25
+    _enemySpawnIntervalDecreasePerPlayerLevel: 0.12
+    _note: 
+  - _stageId: 3
+    _name: Temple of Bit
+    _icon: {fileID: 21300000, guid: 5d3a5fe4ba20c5f4b88c992e24096afb, type: 3}
+    _alwaysUnlocked: 0
+    _enemies:
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 48265f2641da60e4c8bed632c63e4dec, type: 3}
+      SpawnWeight: 10
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 9aa181966576a854fb28c58c67cf9251, type: 3}
+      SpawnWeight: 10
+    - EnemyPrefab: {fileID: 277306914078998486, guid: b570dba8f9a5d2749a89dc5f99974ebe, type: 3}
+      SpawnWeight: 10
+    - EnemyPrefab: {fileID: 277306914078998486, guid: d0db8c5f706a6c14fb54f5a82e171695, type: 3}
+      SpawnWeight: 10
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 224fa34bf432fd74a898644118c12461, type: 3}
+      SpawnWeight: 10
+    - EnemyPrefab: {fileID: 277306914078998486, guid: b2f09e95a456f8147b9ae4331197463d, type: 3}
+      SpawnWeight: 2
+    - EnemyPrefab: {fileID: 277306914078998486, guid: b449a14039c96f54fa9fb345fa806ac2, type: 3}
+      SpawnWeight: 1
+    - EnemyPrefab: {fileID: 277306914078998486, guid: b4091c9bfb05b7f48bf904eaa8d9d820, type: 3}
+      SpawnWeight: 5
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 4296d1a9872e0184cba4446dfa71c49d, type: 3}
+      SpawnWeight: 5
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 53311a7e62d707348992adcb223385a6, type: 3}
+      SpawnWeight: 5
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 7e7582fed198b4941b53c0421d0963e8, type: 3}
+      SpawnWeight: 2
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 89e70771abde7814698df6ee5abceefb, type: 3}
+      SpawnWeight: 1
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 2d05256c2c8798c4a809a608fdfe7029, type: 3}
+      SpawnWeight: 10
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 778241aacc7325e449707079eab53641, type: 3}
+      SpawnWeight: 10
+    - EnemyPrefab: {fileID: 277306914078998486, guid: d27af08776647d74394e1e68d000ccaf, type: 3}
+      SpawnWeight: 10
+    - EnemyPrefab: {fileID: 277306914078998486, guid: fb87f07a90bfc09499cb25a2ba95aed2, type: 3}
+      SpawnWeight: 2
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 8c68d2af538aa91409590175fb8bec30, type: 3}
+      SpawnWeight: 1
+    - EnemyPrefab: {fileID: 277306914078998486, guid: f436f0a2071b21f439958713a2369bf7, type: 3}
+      SpawnWeight: 5
+    - EnemyPrefab: {fileID: 277306914078998486, guid: b1d3c177bd0839140a8ccc2693a4738c, type: 3}
+      SpawnWeight: 3
+    - EnemyPrefab: {fileID: 277306914078998486, guid: a2599c7ef3a4d2b46b6f267f68757a85, type: 3}
+      SpawnWeight: 10
+    - EnemyPrefab: {fileID: 277306914078998486, guid: d748bbc4e2461214293e895aba9c20f7, type: 3}
+      SpawnWeight: 10
+    - EnemyPrefab: {fileID: 277306914078998486, guid: d4f0288b68851e94b8ebf06e5e2bb4f5, type: 3}
+      SpawnWeight: 10
+    - EnemyPrefab: {fileID: 277306914078998486, guid: ab680f8b53a005249bd54ef43b7677ae, type: 3}
+      SpawnWeight: 10
+    - EnemyPrefab: {fileID: 277306914078998486, guid: df4eb65c089e56749a4b0bc7b448104f, type: 3}
+      SpawnWeight: 2
+    - EnemyPrefab: {fileID: 277306914078998486, guid: bb13e4f2b165d1845893fd349f4fe3ef, type: 3}
+      SpawnWeight: 1
+    - EnemyPrefab: {fileID: 277306914078998486, guid: fd7db5dad57539e40be80f4b6eebdd23, type: 3}
+      SpawnWeight: 5
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 68ee3bb5a2dda584fa2092a71db3a3f7, type: 3}
+      SpawnWeight: 3
+    - EnemyPrefab: {fileID: 277306914078998486, guid: df5651b1334a3f24b8df933bd3578147, type: 3}
+      SpawnWeight: 2
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 5f4d7c4fd85513e4099797eb1f5fe6ee, type: 3}
+      SpawnWeight: 1
+    _bosses:
+    - EnemyPrefab: {fileID: 277306914078998486, guid: d966e05099eb94940b2bde45164f9443, type: 3}
+      SpawnWeight: 1
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 649932eb632a91a479f36ef02c126115, type: 3}
+      SpawnWeight: 1
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 1f739ec210ea0654b8250bba6fcdcddf, type: 3}
+      SpawnWeight: 1
+    - EnemyPrefab: {fileID: 277306914078998486, guid: adae8e760fbce0c429ff6a509b053014, type: 3}
+      SpawnWeight: 1
+    _enemySpawnIntervalBase: 3
+    _enemySpawnIntervalMin: 0.25
+    _enemySpawnIntervalDecreasePerPlayerLevel: 0.1
+    _note: 
+  - _stageId: 4
+    _name: Outskirts
+    _icon: {fileID: 21300000, guid: d7aa4e033580af3479bae59f913fe3b8, type: 3}
+    _alwaysUnlocked: 0
+    _enemies:
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 48265f2641da60e4c8bed632c63e4dec, type: 3}
+      SpawnWeight: 10
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 9aa181966576a854fb28c58c67cf9251, type: 3}
+      SpawnWeight: 10
+    - EnemyPrefab: {fileID: 277306914078998486, guid: b570dba8f9a5d2749a89dc5f99974ebe, type: 3}
+      SpawnWeight: 10
+    - EnemyPrefab: {fileID: 277306914078998486, guid: d0db8c5f706a6c14fb54f5a82e171695, type: 3}
+      SpawnWeight: 10
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 224fa34bf432fd74a898644118c12461, type: 3}
+      SpawnWeight: 10
+    - EnemyPrefab: {fileID: 277306914078998486, guid: b2f09e95a456f8147b9ae4331197463d, type: 3}
+      SpawnWeight: 2
+    - EnemyPrefab: {fileID: 277306914078998486, guid: b449a14039c96f54fa9fb345fa806ac2, type: 3}
+      SpawnWeight: 1
+    - EnemyPrefab: {fileID: 277306914078998486, guid: b4091c9bfb05b7f48bf904eaa8d9d820, type: 3}
+      SpawnWeight: 5
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 4296d1a9872e0184cba4446dfa71c49d, type: 3}
+      SpawnWeight: 5
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 53311a7e62d707348992adcb223385a6, type: 3}
+      SpawnWeight: 5
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 7e7582fed198b4941b53c0421d0963e8, type: 3}
+      SpawnWeight: 2
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 89e70771abde7814698df6ee5abceefb, type: 3}
+      SpawnWeight: 1
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 2d05256c2c8798c4a809a608fdfe7029, type: 3}
+      SpawnWeight: 10
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 778241aacc7325e449707079eab53641, type: 3}
+      SpawnWeight: 10
+    - EnemyPrefab: {fileID: 277306914078998486, guid: d27af08776647d74394e1e68d000ccaf, type: 3}
+      SpawnWeight: 10
+    - EnemyPrefab: {fileID: 277306914078998486, guid: fb87f07a90bfc09499cb25a2ba95aed2, type: 3}
+      SpawnWeight: 2
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 8c68d2af538aa91409590175fb8bec30, type: 3}
+      SpawnWeight: 1
+    - EnemyPrefab: {fileID: 277306914078998486, guid: f436f0a2071b21f439958713a2369bf7, type: 3}
+      SpawnWeight: 5
+    - EnemyPrefab: {fileID: 277306914078998486, guid: b1d3c177bd0839140a8ccc2693a4738c, type: 3}
+      SpawnWeight: 3
+    - EnemyPrefab: {fileID: 277306914078998486, guid: a2599c7ef3a4d2b46b6f267f68757a85, type: 3}
+      SpawnWeight: 10
+    - EnemyPrefab: {fileID: 277306914078998486, guid: d748bbc4e2461214293e895aba9c20f7, type: 3}
+      SpawnWeight: 10
+    - EnemyPrefab: {fileID: 277306914078998486, guid: d4f0288b68851e94b8ebf06e5e2bb4f5, type: 3}
+      SpawnWeight: 10
+    - EnemyPrefab: {fileID: 277306914078998486, guid: ab680f8b53a005249bd54ef43b7677ae, type: 3}
+      SpawnWeight: 10
+    - EnemyPrefab: {fileID: 277306914078998486, guid: df4eb65c089e56749a4b0bc7b448104f, type: 3}
+      SpawnWeight: 2
+    - EnemyPrefab: {fileID: 277306914078998486, guid: bb13e4f2b165d1845893fd349f4fe3ef, type: 3}
+      SpawnWeight: 1
+    - EnemyPrefab: {fileID: 277306914078998486, guid: fd7db5dad57539e40be80f4b6eebdd23, type: 3}
+      SpawnWeight: 5
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 68ee3bb5a2dda584fa2092a71db3a3f7, type: 3}
+      SpawnWeight: 3
+    - EnemyPrefab: {fileID: 277306914078998486, guid: df5651b1334a3f24b8df933bd3578147, type: 3}
+      SpawnWeight: 1
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 5f4d7c4fd85513e4099797eb1f5fe6ee, type: 3}
+      SpawnWeight: 0.5
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 4276778ee2a1c934894bfe6005ab391d, type: 3}
+      SpawnWeight: 2
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 38ec89f56746e2c41a72c3b9259aa903, type: 3}
+      SpawnWeight: 2
+    - EnemyPrefab: {fileID: 277306914078998486, guid: ac3e1bae97adf574196b137a63a89e41, type: 3}
+      SpawnWeight: 2
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 564a08f704ecfb54d9a224970c3270c5, type: 3}
+      SpawnWeight: 2
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 3766b806deb573742adc7a77356cfcfd, type: 3}
+      SpawnWeight: 5
+    - EnemyPrefab: {fileID: 277306914078998486, guid: de8ca068c46810c43bcf891e3bc5e5c7, type: 3}
+      SpawnWeight: 0.5
+    - EnemyPrefab: {fileID: 277306914078998486, guid: af000b3be5facc340a34dbe566af904c, type: 3}
+      SpawnWeight: 0.25
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 887b91858192ebc478bfdb74e110b73f, type: 3}
+      SpawnWeight: 5
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 7a428225cad8b1b47a22879c7feace88, type: 3}
+      SpawnWeight: 5
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 0e62909659f04ae4d820e700db34fc10, type: 3}
+      SpawnWeight: 3
+    _bosses:
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 842d81e97b4188b4b91156d8a4a0683d, type: 3}
+      SpawnWeight: 1
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 2e8f36b0aab4d94439e61e8665defedb, type: 3}
+      SpawnWeight: 1
+    - EnemyPrefab: {fileID: 277306914078998486, guid: 2b0f3cef69f518d46a378fddf0c75b0b, type: 3}
+      SpawnWeight: 1
+    _enemySpawnIntervalBase: 3
+    _enemySpawnIntervalMin: 0.25
+    _enemySpawnIntervalDecreasePerPlayerLevel: 0.12
+    _note: 

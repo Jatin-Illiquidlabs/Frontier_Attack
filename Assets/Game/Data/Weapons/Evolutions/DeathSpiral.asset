@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4a3720f6895a4a7aa07586b4ec96075, type: 3}
+  m_Name: DeathSpiral
+  m_EditorClassIdentifier: 
+  _id: 1003
+  _name: Enviro-bolt
+  _description: High damage, high area scaling.
+  _icon: {fileID: 21300000, guid: fcc5477750625ed498d94708a961d1ef, type: 3}
+  _maxLevel: 8
+  _weaponPrefab: {fileID: 4630919343004482572, guid: 15d610a7009d9c143a093d555169f7bb, type: 3}
+  _weaponPrefab2: {fileID: 0}
+  _attackPeriod: 1.3
+  _attackLifetime: 4
+  _damage: 3
+  _knockbackScale: 1
+  _projectilePierce: 10000
+  _evolutionFrom: 4
+  _unionFrom: 
+  _upgrades: []
+  _note: 

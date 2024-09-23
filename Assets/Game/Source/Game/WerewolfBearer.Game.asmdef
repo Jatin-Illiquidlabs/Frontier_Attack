@@ -1,0 +1,24 @@
+{
+    "name": "WerewolfBearer.Game",
+    "rootNamespace": "",
+    "references": [
+        "LeanCommon",
+        "LeanPool",
+        "Zenject",
+        "TypeSafe.Runtime",
+        "DOTween.Modules",
+        "Unity.TextMeshPro",
+        "WerewolfBearer.Generated",
+        "WerewolfBearer.Library",
+        "UniRx"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

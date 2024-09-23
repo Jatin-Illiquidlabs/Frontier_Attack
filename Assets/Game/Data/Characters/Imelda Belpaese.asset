@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be37c32713504fa183780366c712afdc, type: 3}
+  m_Name: Imelda Belpaese
+  m_EditorClassIdentifier: 
+  _prefab: {fileID: 5104436939180262193, guid: 6c22a546a0dcc3c478154995e90c2524, type: 3}
+  _id: 4
+  _name: Trini Robotson
+  _shortName: Trini
+  _description: "\rGains 10% more experience every 5 levels (max +30%)."
+  _avatar: {fileID: 21300000, guid: 18247ed6f484bd54aba40cad254476d9, type: 3}
+  _startingWeapon: 2
+  _alwaysUnlocked: 0
+  _baseUnlockCost: 1700
+  _initialStats: []
+  _note: 

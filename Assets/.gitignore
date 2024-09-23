@@ -1,0 +1,15 @@
+BuildReports/
+BuildReports.meta
+
+/GeneratedLocalRepo/*
+
+# Odin
+/Plugins/Sirenix/Assemblies/AOT.meta
+/Plugins/Sirenix/Assemblies/AOT/*
+
+# Playmode tests garbage
+InitTestScene*.unity
+InitTestScene*.unity.meta
+
+~NonVersioned.meta
+~NonVersioned/*

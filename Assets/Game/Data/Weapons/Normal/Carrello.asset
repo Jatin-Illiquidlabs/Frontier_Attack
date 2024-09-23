@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4a3720f6895a4a7aa07586b4ec96075, type: 3}
+  m_Name: Carrello
+  m_EditorClassIdentifier: 
+  _id: 25
+  _name: Crusher Disc
+  _description: Rolls horizontally. Very high knockback.
+  _icon: {fileID: 21300000, guid: 62ffd988f3de87d44a632be18acaca99, type: 3}
+  _maxLevel: 8
+  _weaponPrefab: {fileID: 4630919343004482572, guid: 662cfabc96adcb84b9b5483344ab71ed, type: 3}
+  _attackPeriod: 4
+  _attackLifetime: 10
+  _damage: 10
+  _knockbackScale: 3
+  _projectilePierce: 10000
+  _evolutionFrom: 0
+  _unionFrom: 
+  _note: 
