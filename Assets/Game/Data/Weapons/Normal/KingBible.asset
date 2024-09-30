@@ -18,13 +18,11 @@ MonoBehaviour:
   _icon: {fileID: -6690289048302031158, guid: 6549b0afeb0e6d84d8c4f70c48b74d2c, type: 3}
   _maxLevel: 8
   _weaponPrefab: {fileID: 5316569552271903360, guid: e29e576c4f8c249569946c103cd00a84, type: 3}
-  _weaponPrefab2: {fileID: 0}
   _attackPeriod: 6
   _attackLifetime: 6
-  _damage: 5
+  _damage: 10
   _knockbackScale: 1
   _projectilePierce: 10000
   _evolutionFrom: 0
   _unionFrom: 
-  _upgrades: []
   _note: 

@@ -20,7 +20,7 @@ MonoBehaviour:
   _weaponPrefab: {fileID: 5272782711022344498, guid: b87ced30a948842dc8cc1c37f8818ca2, type: 3}
   _attackPeriod: 4
   _attackLifetime: 3
-  _damage: 5
+  _damage: 10
   _knockbackScale: 1
   _projectilePierce: 10000
   _evolutionFrom: 0
