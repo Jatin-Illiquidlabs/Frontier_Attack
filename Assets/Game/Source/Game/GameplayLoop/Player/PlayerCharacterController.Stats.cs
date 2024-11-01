@@ -9,6 +9,7 @@ namespace WerewolfBearer {
             ApplyCharacterInitialStats(ref stats);
             ApplyCharacterDynamicStats(ref stats);
             ApplyPassiveItemsStats(ref stats);
+            ApplyPowerUpStats(ref stats);
 
             stats.Cooldown = Mathf.Max(0.1f, stats.Cooldown);
 
@@ -200,5 +201,89 @@ namespace WerewolfBearer {
                 }
             }
         }
+
+        private void ApplyPowerUpStats(ref CharacterStats stats)
+        {
+            foreach (PowerUpDefinition powerUp in PowerUpDatabaseHolder.Instance.powerUpDatabase.PowerUps)
+            {
+                int level = PowerUpDatabaseHolder.Instance.currentLevel >= powerUp.MaxLevel ? powerUp.MaxLevel : PowerUpDatabaseHolder.Instance.currentLevel;
+                switch (powerUp.Id)
+                {
+                    case PowerUpId.Armor:
+                        level = PowerUpDatabaseHolder.Instance.armorLevel >= powerUp.MaxLevel ? powerUp.MaxLevel : PowerUpDatabaseHolder.Instance.armorLevel;
+                        stats.Armor += level;
+                        break;
+                    case PowerUpId.Might:
+                        level = PowerUpDatabaseHolder.Instance.mightLevel >= powerUp.MaxLevel ? powerUp.MaxLevel : PowerUpDatabaseHolder.Instance.mightLevel;
+                        stats.Might += level * 0.1f;
+                        break;
+                    case PowerUpId.MaxHealth:
+                        level = PowerUpDatabaseHolder.Instance.maxHealthLevel >= powerUp.MaxLevel ? powerUp.MaxLevel : PowerUpDatabaseHolder.Instance.maxHealthLevel;
+                        for (int i = 0; i < level; i++)
+                        {
+                            stats.MaxHealth *= 1.2f;
+                        }
+
+                        break;
+                    case PowerUpId.Recovery:
+                        level = PowerUpDatabaseHolder.Instance.recoveryLevel >= powerUp.MaxLevel ? powerUp.MaxLevel : PowerUpDatabaseHolder.Instance.recoveryLevel;
+                        stats.Recovery += level * 0.2f;
+                        break;
+                    case PowerUpId.MoveSpeed:
+                        level = PowerUpDatabaseHolder.Instance.moveSpeedLevel >= powerUp.MaxLevel ? powerUp.MaxLevel : PowerUpDatabaseHolder.Instance.moveSpeedLevel;
+                        stats.MoveSpeed += level * 0.1f;
+                        break;
+                    case PowerUpId.Amount:
+                        level = PowerUpDatabaseHolder.Instance.amountLevel >= powerUp.MaxLevel ? powerUp.MaxLevel : PowerUpDatabaseHolder.Instance.amountLevel;
+                        stats.Amount += level;
+                        break;
+                    case PowerUpId.Cooldown:
+                        level = PowerUpDatabaseHolder.Instance.cooldownLevel >= powerUp.MaxLevel ? powerUp.MaxLevel : PowerUpDatabaseHolder.Instance.cooldownLevel;
+                        stats.Cooldown -= level * 0.08f;
+                        break;
+                    case PowerUpId.Speed:
+                        level = PowerUpDatabaseHolder.Instance.speedLevel >= powerUp.MaxLevel ? powerUp.MaxLevel : PowerUpDatabaseHolder.Instance.speedLevel;
+                        stats.ProjectileSpeed += level * 0.1f;
+                        break;
+                    case PowerUpId.Revival:
+                        level = PowerUpDatabaseHolder.Instance.revivalLevel >= powerUp.MaxLevel ? powerUp.MaxLevel : PowerUpDatabaseHolder.Instance.revivalLevel;
+                        stats.Revival += level;
+                        break;
+                    case PowerUpId.Area:
+                        level = PowerUpDatabaseHolder.Instance.areaLevel >= powerUp.MaxLevel ? powerUp.MaxLevel : PowerUpDatabaseHolder.Instance.areaLevel;
+                        stats.Area += level * 0.1f;
+                        break;
+                    case PowerUpId.Duration:
+                        level = PowerUpDatabaseHolder.Instance.durationLevel >= powerUp.MaxLevel ? powerUp.MaxLevel : PowerUpDatabaseHolder.Instance.durationLevel;
+                        stats.Duration += level * 0.1f;
+                        break;
+                    case PowerUpId.Magnet:
+                        level = PowerUpDatabaseHolder.Instance.magnetLevel >= powerUp.MaxLevel ? powerUp.MaxLevel : PowerUpDatabaseHolder.Instance.magnetLevel;
+                        stats.Magnet *= level switch
+                        {
+                            0 => 0f,
+                            1 => 1.5f,
+                            2 => 1.995f,
+                            3 => 2.49375f,
+                            4 => 2.9925f,
+                            5 => 3.980025f,
+                            _ => throw new ArgumentOutOfRangeException(nameof(level), level, "")
+                        };
+
+                        break;
+                    case PowerUpId.Greed:
+                        level = PowerUpDatabaseHolder.Instance.greedLevel >= powerUp.MaxLevel ? powerUp.MaxLevel : PowerUpDatabaseHolder.Instance.greedLevel;
+                        stats.Greed += level * 0.1f;
+                        break;
+                    case PowerUpId.Growth:
+                        level = PowerUpDatabaseHolder.Instance.growthLevel >= powerUp.MaxLevel ? powerUp.MaxLevel : PowerUpDatabaseHolder.Instance.growthLevel;
+                        stats.Growth += level * 0.1f;
+                        break;
+                    default:
+                        throw new ArgumentOutOfRangeException();
+                }
+            }
+        }
+
     }
 }

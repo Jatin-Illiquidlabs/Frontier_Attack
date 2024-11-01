@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff90e0e579e27774daa4622f2b1447f8, type: 3}
   m_Name: Armor
   m_EditorClassIdentifier: 
-  _id: 0
+  _id: 1
   _name: Armor
   _description: 'Reduces incoming Damage by 1 per rank (max -3) '
   _maxLevel: 3

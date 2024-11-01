@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff90e0e579e27774daa4622f2b1447f8, type: 3}
-  m_Name: Max Health
+  m_Name: Growth
   m_EditorClassIdentifier: 
-  _id: 2
-  _name: Max Health
-  _description: 'Augments Max Health by 10% per rank (max +30%) '
-  _maxLevel: 3
+  _id: 11
+  _name: Growth
+  _description: Gains 3% more experience per rank (max +15%).
+  _maxLevel: 5
   _icon: {fileID: 0}
-  _changePerRank: 10
-  _pricePerLevel: 200
+  _changePerRank: 3
+  _pricePerLevel: 900

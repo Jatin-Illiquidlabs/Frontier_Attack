@@ -35,5 +35,16 @@ namespace WerewolfBearer
         [SerializeField]
         [Required]
         private int _pricePerLevel;
+
+        public PowerUpId Id => _id;
+
+        public string Name => _name;
+
+        public string Description => _description;
+
+        public int MaxLevel => _maxLevel;
+
+        [PreviewField(ObjectFieldAlignment.Left)]
+        public Sprite Icon => _icon;
     }
 }
